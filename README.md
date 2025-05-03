@@ -109,37 +109,4 @@ python deliverable_4/run_sensitivity.py
 
 ---
 
-## 📌 Dependencies
 
-* Python 3.9
-* NumPy 1.24
-* SciPy 1.10
-* Matplotlib 3.6
-* NetworkX 2.8
-
----
-
-## 📈 Future Work
-
-* Scale-up to large web graphs (≥10K nodes)
-* Add sparse matrix support (BLAS/CSR)
-* Explore Personalized PageRank
-
----
-
-## 📄 License
-
-This project is for educational use. License terms can be added here.
-
----
-
-## 🤝 Acknowledgments
-
-Developed as part of an academic deliverable on iterative graph algorithms.
-
-```
-
----
-
-Would you like me to add this file to your project or format it with a badge/header style for GitHub Pages?
-```
