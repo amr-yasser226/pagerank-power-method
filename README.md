@@ -11,7 +11,7 @@ This project implements the PageRank algorithm using the **power iteration metho
 
 ---
 
-## 🔧 Features
+ 🔧 Features
 
 - Matrix-based PageRank computation
 - Toy graph experiments for validation
@@ -21,7 +21,7 @@ This project implements the PageRank algorithm using the **power iteration metho
 
 ---
 
-## 📁 Folder Structure
+ 📁 Folder Structure
 
 ```
 
