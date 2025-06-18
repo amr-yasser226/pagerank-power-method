@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+Deliverable 4 Experiments & Validation/__pycache__
+
+*venv
